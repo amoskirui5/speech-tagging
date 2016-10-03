@@ -1,0 +1,8 @@
+e <utt>
+l kipsigis.data.lex.ambi.05
+k kipsigis.data.known.ddfa
+u kipsigis.data.unknown.dFapsss
+p ddfa
+P dFapsss
+O +vS -FColumns K: -a IGTREE +D U: -a IB1 
+L kipsigis.data.top100
